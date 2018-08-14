@@ -1,0 +1,48 @@
+测试点：
+同一台机器两个cookie会不会串
+
+{
+	"userName":"admin",
+	"password":"12345678",
+	"realName":"阿俊"
+}
+
+{
+	"id":3,
+	"userName":"biao",
+	"password":"12345678",
+	"realName":"阿于",
+	"status":1,
+	"roleId":1
+}
+
+{
+	"purchaseOrderName":"春1",
+	"goodsName":"迷彩衣",
+	"costPrice":100.000000,
+	"quantity":5
+}
+
+{
+    "id":"1",
+	"purchaseOrderName":"春1",
+	"goodsName":"迷彩衣",
+	"costPrice":100.000000,
+	"quantity":5
+}
+
+
+{
+	"purchaseOrderName":"春1",
+	"goodsName":"迷彩衣",
+	"sellPrice":100.000000,
+	"quantity":5
+}
+
+{
+	"id":2,
+	"purchaseOrderName":"春1",
+	"goodsName":"迷彩衣",
+	"sellPrice":211.111111,
+	"quantity":1
+}
